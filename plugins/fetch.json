@@ -1,0 +1,10 @@
+{
+    "cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "local",
+            "path": "F:\\Development\\phonegap_plugins\\cordova-plugin-inappbrowser-master"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
